@@ -1,0 +1,31 @@
+
+.navbar{
+  position: absolute;
+  left: 10%;
+  top: 0%;
+}
+.nav-wrapper{
+  position: absolute;
+  height: 10vh;
+  opacity: 0.7;
+  z-index: 0;
+}
+.clan{
+  position: absolute;
+  background-color: blue;
+  height: 100vh;
+  width: 100%;
+}
+.pub{
+  position: absolute;
+  height :100vh;
+  width: 100%;
+}
+
+.life{
+  position: absolute;
+  top: 0;
+  left: 0vh;
+  height: 10vh;
+  width: 10vh;
+}
